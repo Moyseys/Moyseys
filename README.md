@@ -8,7 +8,7 @@ Olá! Sou Moyseys Ferreira Veroni
 - 📫 Como chegar até mim 🔻
 ~~~
 ##
- <a href="" target="_blank">
+ <a href="https://codepen.io/Moyza_G2RK" target="_blank">
  <img height="30" width="40" src="https://www.svgrepo.com/show/349323/codepen.svg" target="_blank"></a> 
  
  <a href="https://www.instagram.com/moyza_g2/" target="_blank">
