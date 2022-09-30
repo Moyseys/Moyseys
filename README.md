@@ -9,13 +9,13 @@ Olá! Sou Moyseys Ferreira Veroni
 ~~~
 ##
 
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moyseys&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do github Moyseys" />
+</div align="center">
+  <div align="center">
+    <a href="https://github.com/Moyseys">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moyseys&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moyseys&layout=compact&langs_count=7&theme=radical"/>
+  </div>
 
-</div>
-
-<div aling="center">
-    
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZcQsfJNDbzBtllMdSnkBWtCRZbbbjLrkGTbdPwslzwgJKHlqCMGFMRddnkJkmbRqpwHRL" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
