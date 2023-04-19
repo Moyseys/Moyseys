@@ -4,7 +4,7 @@ Olá! Sou Moyseys Ferreira Veroni
 ##
 ~~~
 - 🔭 Estou cursando técnico em informática.
-- 🌱 Atualmente estudando node
+- 🌱 Atualmente estudando React
 - 📫 Como chegar até mim 🔻
 ~~~
 
