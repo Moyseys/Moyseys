@@ -1,10 +1,8 @@
-
-~~~
-Estou cursando técnico em informática.
-Atualmente estudando React
-Como chegar até mim 🔻
-~~~
-
+<div align="center">
+<p>Estou cursando técnico em informática.</p>
+<p>Atualmente estudando React</p>
+<p>Como chegar até mim 🔻</p>
+</iv>
   
    
  ##
