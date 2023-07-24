@@ -10,19 +10,12 @@
 	
 <div align="center">
 	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">	
-
 	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">	
-
 	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">	
-
 	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">	
-
 	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">	
-
 	<img align="center" height="70em" src="">	
-
 	<img align="center" height="70em" src="">	
-
 	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
 </div>
 
