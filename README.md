@@ -26,9 +26,6 @@
     <a align="center" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZcQsfJNDbzBtllMdSnkBWtCRZbbbjLrkGTbdPwslzwgJKHlqCMGFMRddnkJkmbRqpwHRL" target="_blank">
    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-   <a align="center" href="https://codepen.io/Moyza_G2RK" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a> 
-
    <a align="center" href="https://www.linkedin.com/in/moyseys-ferreira-veroni-a55611231/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
