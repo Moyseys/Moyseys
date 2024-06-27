@@ -10,15 +10,20 @@
 ##
 	
 <div align="center">
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">	
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
-	<img align="center" height="70em" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png">	
+	<img src="https://skillicons.dev/icons?i=html">
+	<img src="https://skillicons.dev/icons?i=css">
+	<img src="https://skillicons.dev/icons?i=ts">
+	<img src="https://skillicons.dev/icons?i=py">
+	<img src="https://skillicons.dev/icons?i=nodejs">
+	<img src="https://skillicons.dev/icons?i=react">
+	<img src="https://skillicons.dev/icons?i=next">
+	<img src="https://skillicons.dev/icons?i=jest">
+	<img src="https://skillicons.dev/icons?i=mysql">
+	<img src="https://skillicons.dev/icons?i=mongodb">
+	<img src="https://skillicons.dev/icons?i=docker">
+	<img src="https://skillicons.dev/icons?i=aws">
+	<img src="https://skillicons.dev/icons?i=linux">
+	<img src="https://skillicons.dev/icons?i=git">
 </div>
 
 ##
