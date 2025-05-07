@@ -10,18 +10,16 @@
 ##
 	
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=html">
-	<img src="https://skillicons.dev/icons?i=css">
 	<img src="https://skillicons.dev/icons?i=ts">
 	<img src="https://skillicons.dev/icons?i=py">
 	<img src="https://skillicons.dev/icons?i=nodejs">
 	<img src="https://skillicons.dev/icons?i=react">
+	<img src="https://skillicons.dev/icons?i=angular">
 	<img src="https://skillicons.dev/icons?i=next">
 	<img src="https://skillicons.dev/icons?i=jest">
 	<img src="https://skillicons.dev/icons?i=mysql">
 	<img src="https://skillicons.dev/icons?i=mongodb">
 	<img src="https://skillicons.dev/icons?i=docker">
-	<img src="https://skillicons.dev/icons?i=aws">
 	<img src="https://skillicons.dev/icons?i=linux">
 	<img src="https://skillicons.dev/icons?i=git">
 </div>
