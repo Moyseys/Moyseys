@@ -10,6 +10,7 @@
 ##
 	
 <div align="center">
+	<img src="https://skillicons.dev/icons?i=dotnet">
 	<img src="https://skillicons.dev/icons?i=ts">
 	<img src="https://skillicons.dev/icons?i=py">
 	<img src="https://skillicons.dev/icons?i=nodejs">
